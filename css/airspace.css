@@ -57,7 +57,7 @@ a:active {
   font-weight: 600;
 }
 .section-title p {
-  font-family: 'Volkhov', serif;
+  font-family: 'Open Sans', serif;
   font-style: italic;
   color: #666;
 }
@@ -812,4 +812,22 @@ footer .footer-manu ul li a {
 }
 footer .footer-manu ul li a:hover {
   color: #000;
+}
+
+
+/*--
+  Table stuff
+--*/
+table{
+    border-collapse: separate;
+    border-spacing: 1px;
+    border:1px solid #000000;
+}
+
+th{
+    border:1px solid #000000;
+}
+
+td{
+    border:1px solid #000000;
 }
