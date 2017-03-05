@@ -23,16 +23,17 @@ Membership is open to people with or without a DD-214.  Call the Post 3285 Offic
 To request information be posted in this email contact Tom Balloch at <a href="mailto:thomasballoch@comcast.net?Subject=Newsletter" target="_top">thomasballoch@comcast.net</a>
 
 
-** Did You Know? **
+Did You Know?
 1.  THE GOLF COURSE IS OFFICIALLY CLOSED
 2.  Joe Allen, Commander of Post 3285, builds Shadow Boxes for those interested.  Information or requests should be made through the VFW Post Office, Billie Richardson at (301) 663-3372
 3.  Te recent Buddy Poppy Event raised $1869.59 for support of Veteran Services.  Thank you to all volunteers that participated in this event.
 
-** ENTERTAINMENT **
+ENTERTAINMENT
 
 3/10:  7:00PM Paul Ivy
 
-** AUXILIARY **
+AUXILIARY
+
 1.  The Auxiliary wishes to thank all those that purchased tickets for the two gift/Valentine baskets that were raffled off at  the end of the Chili Cook-off.  Proceeds of $500.00 will go to Veteran Projects.
 2.  Starting February 15th, the Auxiliary will be having a Sub/Sandwich/Pizza Sale to benefit Veterans Projects.  If you have not tried these sandwiches, they are delicious.  All monies are due to Julie Seiler by Monday, March 13th.  Delivery date is March 21st by 4 PM
 
@@ -49,11 +50,11 @@ Evergreen Service Center:  15% discount on any auto service/repairs for all form
 
 Brewster’s Ice Cream located on Crestwood Blvd will give any VFW Member who shows their VFW Membership Card a 25% discount on their purchases.
 
-** POST NEWS **
+POST NEWS
 
 March 30:  Martin's Crosswinds. Greenbelt MD, 4:00PM, 3rd Annual Welcome Home Vietnam Veterans Day Celebration.  See Flyer in the Lounge later this week
 
-** VFW Memberships **
+VFW Memberships
 
 50% off the price for LIFE membership with following requirements:
 
@@ -75,7 +76,7 @@ Donations are being accepted in the lounge for all the pastries provided to the 
 
 Update your mailing address if you have moved so that you can still get the VFW Monthly magazine and other information.
 
-** MFM Pathfinders Division (Sea Cadets) **
+MFM Pathfinders Division (Sea Cadets)
 
 March 25/26/2017 Drill Weekend
 
