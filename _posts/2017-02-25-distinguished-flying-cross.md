@@ -3,7 +3,7 @@ layout: post
 title: "The Distinguished Flying Cross"
 author: "admin"
 date: 2016-01-01 01:00:00
-permalink: /patriotism/distinguished-flying-cross
+permalink: /patriotism/distinguished-flying-cross.html
 ---
 |Name|Service|Conflict|Citation|News and Pictures|
 |---|---|---|---|---|

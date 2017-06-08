@@ -3,7 +3,7 @@ layout: post
 title: "The Silver Star"
 author: "admin"
 date: 2016-01-01 01:00:00
-permalink: /patriotism/silver-star
+permalink: /patriotism/silver-star.html
 ---
 |Name|Service|Conflict|Citation|News and Pictures|
 |---|---|---|---|---|
