@@ -82,7 +82,7 @@ VFW Memberships: 50% off the price for LIFE membership with following requiremen
 3. must send to Post Quartermaster ASAP.  
 Note:  This is a limited time offer.  For more information contact the Post.  This is a special program by the VFW Department of Maryland and only for a very short time.  We have no grants this year for annual renewal.  Remember you must go through the Post only on this 50% Life dues reduction.
 
-### Important Notes
+### IMPORTANT NOTES
 
 WE NEED NEW MEMBERS TO CONTINUE AS "ALL AMERICAN POST".  To attain All American Post, we must be in the highest 25% in our Membership Division.  MORE members will help us get to this award.  If you know a veteran that is not a member, get him/her signed up before June 30th
 We are NUMBER ONE because of what we do and will continue doing!
