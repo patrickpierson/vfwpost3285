@@ -4,13 +4,13 @@ title: "Weekly Newsletter for June 12, 2017"
 author: "Tom Balloch"
 ---
 
-IMPORTANT NOTICES
+### IMPORTANT NOTICES
 
 1. MONEY CARD GAMES ARE PROHIBITED IN THE VFW LOUNGE
 
 2.  The VFW is a post home for veterans and their family members.  It is NOT a club.  Hopefully, going forward we show respect to those that were in combat zones and their family members who enter our post
 
-VFW MEETINGS
+### VFW MEETINGS
 
 1.  VFW MEMBERSHIP MEETING - MONDAY NIGHT 7/3/2017 at 7:00 PM
 All members are invited to come out and participate.  Make your voice heard
@@ -24,7 +24,7 @@ Membership is open to people with or without a DD-214.  Call the Post 3285 Offic
 
 To request information be posted in this email contact Tom Balloch at thomasballoch@comcast.net
 
-Did You Know?
+### Did You Know?
 
 1.  Joe Allen, Commander of Post 3285, builds Shadow Boxes for those interested.  Information or requests should be made through the VFW Post Office, Billie Richardson at (301) 663-3372
 
@@ -38,7 +38,7 @@ Did You Know?
 
 6.  U.S. OPEN DRAFT- TUESDAY 6/13, 6:00PM IN THE LOUNGE
 
-ENTERTAINMENT:
+### ENTERTAINMENT
 
 "SATURDAY NIGHT SPECIAL"
 
@@ -55,7 +55,7 @@ Weekly Membership Drawing Winners: Drawings Thursday Night
 
 $198.50 - CHRIS SLINGCUFF - Not Signed
 
-POST NEWS
+### POST NEWS
 
 U.S. OPEN DRAFT- TUESDAY 6/13, 6:00PM IN THE LOUNGE
 
@@ -67,7 +67,7 @@ Auxiliary Cash Draw Down will be held September 16, 2017
 
 Buddy Poppy:  All children, grandchildren, aunts and uncles are encouraged to represent VFW Post 3285 in its Buddy Poppy locations.  Locations will  be posted in this newsletter as they become available.  
 
-SPECIALS FOR VFW MEMBERS
+### SPECIALS FOR VFW MEMBERS
 
 Evergreen Service Center:  15% discount on any auto service/repairs for all former or current military personnel and their families  Call (240) 815-5223 for an appointment. "Thank you for your service" 
 
@@ -82,7 +82,9 @@ VFW Memberships: 50% off the price for LIFE membership with following requiremen
 3. must send to Post Quartermaster ASAP.  
 Note:  This is a limited time offer.  For more information contact the Post.  This is a special program by the VFW Department of Maryland and only for a very short time.  We have no grants this year for annual renewal.  Remember you must go through the Post only on this 50% Life dues reduction.
 
-Important Note:  WE NEED NEW MEMBERS TO CONTINUE AS "ALL AMERICAN POST".  To attain All American Post, we must be in the highest 25% in our Membership Division.  MORE members will help us get to this award.  If you know a veteran that is not a member, get him/her signed up before June 30th
+### Important Notes
+
+WE NEED NEW MEMBERS TO CONTINUE AS "ALL AMERICAN POST".  To attain All American Post, we must be in the highest 25% in our Membership Division.  MORE members will help us get to this award.  If you know a veteran that is not a member, get him/her signed up before June 30th
 We are NUMBER ONE because of what we do and will continue doing!
 
 Know a veteran in need of assistance with VA Claims, Contact the Service Officer, Robert Hartman, (301) 676-9866 or ret1sgusar@aol.com
