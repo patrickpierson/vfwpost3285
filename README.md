@@ -1,7 +1,15 @@
-# _Airspace_ for Jekyll
-![screenshot](screenshots/home.png "Description goes here")
+#### VFW Post 3285 
 
-This Jekyll theme is a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
+Dev site: https://patrickpierson.github.io/vfwpost3285
 
-## Usage
-To start your project, [fork this respository](https://github.com/luminousrubyist/airspace-jekyll/fork), put in your content, and go!
+Make changes by commiting and pushing them. 
+
+Prod site: https://vfw3285.org
+
+Make changes by the following:
+
+> make clean
+
+> make html
+
+> make publish
