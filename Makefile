@@ -12,6 +12,7 @@ help:
 	@echo 'Usage:                                                                    '
 	@echo '   make html                           (re)generate the web site          '
 	@echo '   make clean                          remove the generated files         '
+	@echo '   make pushupdate		      posts deploy folder to CDN         '
 	@echo '   make publish                        generate using production settings '
 	@echo '   make serve [PORT=8000]              serve site at http://localhost:8000'
 	@echo '   make devserver [PORT=8000]          start/restart develop_server.sh    '
@@ -45,9 +46,12 @@ stopserver:
 	$(BASEDIR)/develop_server.sh stop
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-publish:
+pushupdate:
 	aws s3 rm --recursive s3://$(S3_BUCKET)
 	aws s3 sync $(OUTPUTDIR) s3://$(S3_BUCKET) --acl public-read --cache-control max-age=2592000,public
 	aws cloudfront create-invalidation --distribution-id E228D9I8GCWTBP --path "/*"
 
-.PHONY: html help clean serve devserver stopserver publish
+
+publish: clean html pushupdate
+
+.PHONY: html help clean serve devserver stopserver pushupdate publish
