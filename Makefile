@@ -47,7 +47,7 @@ stopserver:
 
 publish:
 	aws s3 rm --recursive s3://$(S3_BUCKET)
-	aws s3 sync $(OUTPUTDIR) s3://$(S3_BUCKET) --acl public-read
+	aws s3 sync $(OUTPUTDIR) s3://$(S3_BUCKET) --acl public-read --cache-control max-age=2592000,public
 	aws cloudfront create-invalidation --distribution-id E228D9I8GCWTBP --path "/*"
 
 .PHONY: html help clean serve devserver stopserver publish
