@@ -18,7 +18,7 @@ gems:
 # Site settings
 title: VFW Post 3285
 subtitle: "John R. Webb VFW Post 3285"
-url: "https://vfw3285.org" # the base hostname & protocol for your site
+url: "https://www.vfw3285.org" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 cover: "/assets/cover.png"
