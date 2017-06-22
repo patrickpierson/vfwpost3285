@@ -26,10 +26,15 @@ To request information be posted in this email contact Tom Balloch at thomasball
 
 
 ### Did You Know?
+
 1.  Joe Allen, Commander of Post 3285, builds Shadow Boxes for those interested.  Information or requests should be made through the VFW Post Office, Billie Richardson at (301) 663-3372
+
 2.  AUXILIARY CASH DRAW DOWN IS SEPT.16
+
 3.  VFW STATE CONVENTION THIS WEEK
+
 4.  Saturday Drink Special:Freshly squeezed ORANGE & GRAPEFRUIT Crushes!!!
+
 5.  The Auxiliary donated the Juicer and blender to make the Saturday night specials.  Many thanks to the Auxiliary
 
 ### ENTERTAINMENT
