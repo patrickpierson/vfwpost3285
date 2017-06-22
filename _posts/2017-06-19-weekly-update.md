@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weekly Newsletter for June 12, 2017"
+title: "Weekly Newsletter for June 19, 2017"
 author: "Tom Balloch"
 ---
 
