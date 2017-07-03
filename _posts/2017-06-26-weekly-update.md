@@ -9,7 +9,8 @@ author: "Tom Balloch"
 
 2.  The VFW is a post home for veterans and their family members.  It is NOT a club.  Hopefully, going forward we show respect to those that were in combat zones and their family members who enter our post
 
-3.  IMPORTANT INFORMATION ON THE VFW MEMBERSHIP//COUNTRY CLUB PICNIC
+
+### IMPORTANT INFORMATION ON THE VFW MEMBERSHIP//COUNTRY CLUB PICNIC
 
 DATE:  AUGUST 12, 2017
 
