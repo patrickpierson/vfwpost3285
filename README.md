@@ -8,6 +8,8 @@ Prod site: https://vfw3285.org
 
 Make changes by the following:
 
+> export AWS_PROFILE=vfw
+
 > make clean
 
 > make html
