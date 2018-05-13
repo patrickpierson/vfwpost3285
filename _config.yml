@@ -31,6 +31,10 @@ markdown: kramdown
 # Google analytics
 ga_tracking_id: "UA-92630193-1"
 
+google:
+  tag_manager:
+    container_id: GTM-MT9RKR2
+
 # Category descriptions (for archive pages)
 descriptions:
   - cat: jekyll
