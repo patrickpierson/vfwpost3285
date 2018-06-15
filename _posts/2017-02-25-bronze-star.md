@@ -3,7 +3,7 @@ layout: post
 title: "The Bronze Star"
 author: "admin"
 date: 2016-01-01 01:00:00
-permalink: /patriotism/bronze-star.html
+permalink: /aboutus/bronze-star.html
 ---
 |Name|Service|Conflict|Citation|News and Pictures|
 |---|---|---|---|---|
