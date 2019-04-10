@@ -7,7 +7,6 @@ phases:
   build:
     commands:
       - make html
-#  post_build:
-#    commands:
-#      - command
-#      - command
+  post_build:
+    commands:
+      - make pushupdate
