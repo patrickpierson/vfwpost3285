@@ -33,127 +33,18 @@ permalink: /officers/
           </div>
           <div class="portfolio-contant">
             <ul id="portfolio-contant-active">
-                <li class="mix Command">
+              {% for officer in site.officers %}
+                <li class="mix {{ officer.filter }}">
                   <a href="#">
-                    <img src="{{ site.baseurl }}/img/officers/allen.jpg" alt="">
+                    <img src="{{ site.baseurl }}/img/officers/{{ officer.image }}" alt="">
                     <div class="overly">
                       <div class="position-center">
-                        <h2>Joe Allen</h2>
-                        <p>Commander</p>
+                        <h2>{{ officer.name }} - {{ officer.position }}</h2>
                       </div>
                     </div>
                   </a>
               </li>
-              <li class="mix Command">
-                <a href="#">
-                  <img src="{{ site.baseurl }}/img/officers/pierson.jpg" alt="">
-                  <div class="overly">
-                    <div class="position-center">
-                      <h2>Patrick Pierson</h2>
-                      <p>Sr. Vice Commander</p>
-                    </div>
-                  </div>
-                </a>
-            </li>
-            <li class="mix Command">
-              <a href="#">
-                <img src="{{ site.baseurl }}/img/officers/delaughter.jpg" alt="">
-                <div class="overly">
-                  <div class="position-center">
-                    <h2>Wayne DeLauter</h2>
-                    <p>Jr. Vice commander</p>
-                  </div>
-                </div>
-              </a>
-            </li>
-              <li class="mix Operations">
-                <a href="#">
-                  <img src="{{ site.baseurl }}/img/officers/roy.jpg" alt="">
-                  <div class="overly">
-                    <div class="position-center">
-                      <h2>Roy Steuer</h2>
-                      <p>Adjutant</p>
-                    </div>
-                  </div>
-                </a>
-              </li>
-              <li class="mix Operations">
-                <a href="#">
-                  <img src="{{ site.baseurl }}/img/officers/stull.jpg" alt="">
-                  <div class="overly">
-                    <div class="position-center">
-                      <h2>Juan Stull</h2>
-                      <p>Quartermaster</p>
-                    </div>
-                  </div>
-                </a>
-              </li>
-              <li class="mix Services">
-                <a href="#">
-                  <img src="{{ site.baseurl }}/img/officers/robinson.jpg" alt="">
-                  <div class="overly">
-                    <div class="position-center">
-                      <h2>Nathan Robinson</h2>
-                      <p>Chaplain</p>
-                    </div>
-                  </div>
-                </a>
-              </li>
-              <li class="mix Services">
-                <a href="#">
-                  <img src="{{ site.baseurl }}/img/officers/martinez.jpg" alt="">
-                  <div class="overly">
-                    <div class="position-center">
-                      <h2>Jay Martinez</h2>
-                      <p>Surgeon</p>
-                    </div>
-                  </div>
-                </a>
-              </li>
-              <li class="mix Services">
-                <a href="#">
-                  <img src="{{ site.baseurl }}/img/officers/burdette.jpg" alt="">
-                  <div class="overly">
-                    <div class="position-center">
-                      <h2>Jim Burdette</h2>
-                      <p>Service Officer</p>
-                    </div>
-                  </div>
-                </a>
-              </li>
-              <li class="mix Operations">
-                <a href="#">
-                  <img src="{{ site.baseurl }}/img/officers/warner.jpg" alt="">
-                  <div class="overly">
-                    <div class="position-center">
-                      <h2>Hugh Warner</h2>
-                      <p>Judge Advocate</p>
-                    </div>
-                  </div>
-                </a>
-              </li>
-              <li class="mix Trustees">
-                <a href="#">
-                  <img src="{{ site.baseurl }}/img/officers/turley.jpg" alt="">
-                  <div class="overly">
-                    <div class="position-center">
-                      <h2>Ron Turley</h2>
-                      <p>2nd Year Trustee</p>
-                    </div>
-                  </div>
-                </a>
-              </li>
-              <li class="mix Trustees">
-                <a href="#">
-                  <img src="{{ site.baseurl }}/img/officers/campbell.jpg" alt="">
-                  <div class="overly">
-                    <div class="position-center">
-                      <h2>Dan Campbell</h2>
-                      <p>3rd Year Trustee</p>
-                    </div>
-                  </div>
-                </a>
-              </li>
+              {% endfor %}
             </ul>
           </div>
         </div>
