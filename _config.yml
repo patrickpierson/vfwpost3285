@@ -18,7 +18,7 @@ officers:
   - name: "Dale Blake"
     position: "Quartermaster"
     filter: "Operations"
-    image: "blur.jpg"
+    image: "dale.jpg"
   - name: "Nathan Robinson"
     position: "Chaplain"
     filter: "Services"
@@ -42,7 +42,7 @@ officers:
   - name: "Dan Campbell"
     position: "3rd Year Trustee"
     filter: "Trustees"
-    image: "campbell.jpg"  
+    image: "campbell.jpg"
 
 exclude:
   - "/vendor/"
