@@ -6,3 +6,4 @@ group :jekyll_plugins do
 end
 gem "kramdown", ">= 2.3.0"
 gem "kramdown-parser-gfm"
+gem "jekyll"
