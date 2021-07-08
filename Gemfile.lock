@@ -72,7 +72,7 @@ PLATFORMS
 
 DEPENDENCIES
   airspace-jekyll!
-  bundler (~> 2.2.2)
+  #bundler (~> 2.2.2)
   jekyll
   jekyll-google-tag-manager
   jekyll-sitemap
