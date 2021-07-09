@@ -1,0 +1,30 @@
+name: Build and Deploy Master Branch
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build the site in the jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build  -d ./deploy"
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-region: us-east-1
+    - name: Clear S3 bucket
+      run: aws s3 rm --recursive s3://vfw3285
+    - name: Copy data to S3 Bucket
+      run: aws s3 sync ./deploy s3://vfw3285 --acl public-read --cache-control max-age=2592000,public
+    - name: Create invalidation
+      run: aws cloudfront create-invalidation --distribution-id EARYRCOOE3IYT --path "/*"
