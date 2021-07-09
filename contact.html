@@ -62,24 +62,19 @@ permalink: /contact/
           <!--End mc_embed_signup-->
           <h2>Stop By For A visit</h2>
           <ul class="address-block">
+            {% for contact_info in site.contact_infos %}
             <li>
-              <i class="fa fa-map-marker"></i>VFW Post 3285, 5901 Old National Pike, Frederick, MD 21702
+              <i class="fa fa-{{ contact_info.name }}"></i>{{ contact_info.value }}
             </li>
-            <li>
-              <i class="fa fa-envelope-o"></i>Email: <a href="mailto:contact@vfw3285.org?Subject=Hello" target="_top">contact@vfw3285.org</a>
-            </li>
-            <li>
-              <i class="fa fa-phone"></i>Phone: 301-663-3372
-            </li>
+            {% endfor %}
           </ul>
 
           <ul class="social-icons">
+            {% for social in site.socials %}
             <li>
-              <a href="https://twitter.com/VFWPost3285"><i class="fa fa-twitter"></i></a>
+              <a href="{{ social.value }}"><i class="fa fa-{{ social.name }}"></i></a>
             </li>
-            <li>
-              <a href="https://www.facebook.com/VFWPost3285/"><i class="fa fa-facebook"></i></a>
-            </li>
+            {% endfor %}
           </ul>
         </div>
       </div>
