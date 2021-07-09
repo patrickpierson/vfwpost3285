@@ -3,10 +3,10 @@ name: Build and Deploy Dev Branches
 on:
   push:
     branches:
-      - !master
+      - '!master'
   pull_request:
     branches:
-      - !master
+      - '!master'
 
 jobs:
   build:
