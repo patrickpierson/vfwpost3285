@@ -49,6 +49,20 @@ officers:
     filter: "Trustees"
     image: "pierson.jpg"
 
+contact_infos:
+  - name: "envelope-o"
+    value: "Email: contact@vfw3285.org"
+  - name: "phone"
+    value: "Phone: 301-663-3372"
+  - name: "map-marker"
+    value: "VFW Post 3285, 5901 Old National Pike, Frederick, MD 21702"
+
+socials:
+  - name: "facebook"
+    value: "https://www.facebook.com/VFWPost3285"
+  - name: "twitter"
+    value: "https://twitter.com/VFWPost3285"
+
 exclude:
   - "/vendor/"
   - "Gemfile"
